@@ -1,4 +1,4 @@
-# IPL-ANALYSIS-DASHBOARD-POWER-BI
+# IPL ANALYSIS DASHBOARD   ( POWER-BI ) 
 IPL Analysis Dashboard- POWER BI 
 
 https://app.powerbi.com/links/Y1qSJZp-mF?ctid=30ec8a15-7492-495e-9342-c7e27815e204&pbi_source=linkShare
